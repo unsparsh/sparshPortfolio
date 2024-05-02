@@ -1,0 +1,19 @@
+[
+    {
+      "role": "In-House Internship , SKIT",
+      "organisation": "",
+      "startDate": "July, 2023 - Aug, 2023",
+      "endDate": "Present",
+      "experiences": ["Created Bank Management System", "Created Project in C++"],
+      "imageSrc": "history/skit.png"
+    },
+    {
+      "role": "UI Designer , SIH",
+      "organisation": "",
+      "startDate": "Aug, 2023 - Dec, 2023",
+      "endDate": "",
+      "experiences": ["Worked as a Team Leader ", "Designed complete UI for my Project named UNAMIC"],
+      "imageSrc": "history/sih.png"
+    }
+  ]
+  
