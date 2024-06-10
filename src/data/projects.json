@@ -18,7 +18,7 @@
   {
     "title": "Docs Page",
     "imageSrc": "projects/Docs_Card.png",
-    "description": "This is a Card Container which enables user to move cards freely around the screen, It is a frontend Project made in React.",
+    "description": "This is a Card Container which enables user to move cards freely around the screen.",
     "skills": ["HTML", "Tailwind", "JavaScript","React"],
     "demo": "https://docsbysparsh.netlify.app/",
     "source": "https://github.com/unsparsh/Docs-Frontend-React_project"
