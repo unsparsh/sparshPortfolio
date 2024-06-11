@@ -25,7 +25,7 @@
   },
   {
     "title": "Live Weather preview",
-    "imageSrc": "projects/to-do.png",
+    "imageSrc": "weather-app.png",
     "description": "Live weather discription, Enter your city and get Weather Details.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://rawcdn.githack.com/unsparsh/weather-app/77232440b69a80b2b857a81a22842ca4c5b0eb26/index.html",
