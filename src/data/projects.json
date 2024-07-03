@@ -25,7 +25,7 @@
   },
   {
     "title": "Live Weather preview",
-    "imageSrc": "weather-app.png",
+    "imageSrc": "projects/weather-app.png",
     "description": "Live weather discription, Enter your city and get Weather Details.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://rawcdn.githack.com/unsparsh/weather-app/77232440b69a80b2b857a81a22842ca4c5b0eb26/index.html",
@@ -40,19 +40,19 @@
     "source": "https://github.com/unsparsh/ToDoList"
   },
   {
-    "title": "Digital Clock",
+    "title": "Alarm Clock",
     "imageSrc": "projects/clock.png",
-    "description": "This is a Digital Clock that takes times from your system and shows on the sceen in beautiful way.",
+    "description": "This is a Web Alarm Clock that works perfectly in your web browser and gives a beep sound when triggered.",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://rawcdn.githack.com/unsparsh/digitalclock/549fd614b750f65f8a0c8bbde3a389d8eac78066/index.html",
-    "source": "https://github.com/unsparsh/digitalclock"
+    "demo": "https://rawcdn.githack.com/unsparsh/Alarm-Clock/aaab5204d11c9b5b5b62c5311358ab37c3260a2e/index.html",
+    "source": "https://github.com/unsparsh/Alarm-Clock"
   },
   {
-    "title": "BMI Calculator",
+    "title": "Housie Game",
     "imageSrc": "projects/bmi.png",
-    "description": "This is a BMI Calculator that takes input of height and weight and tells your BMI index.",
+    "description": "This is a Housie game that will let you play the game with yout friends and family.",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://rawcdn.githack.com/unsparsh/bmi-calculator/8b1fb923f60bd1c553ae4d5ac8a036578c5099da/index.html",
-    "source": "https://github.com/unsparsh/bmi-calculator"
+    "demo": "https://rawcdn.githack.com/unsparsh/Housie-Game/3ee64a71ea5602e9583aed27758805d5c76ecbeb/index.html",
+    "source": "https://github.com/unsparsh/Housie-Game"
   }
 ]
