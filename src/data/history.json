@@ -1,17 +1,17 @@
 [
     {
       "role": "In-House Internship , SKIT",
-      "organisation": "",
-      "startDate": "July, 2023 - Aug, 2023",
-      "endDate": "Present",
+      "organisation": "SKIT JAIPUR",
+      "startDate": "July, 2023",
+      "endDate": "August, 2023",
       "experiences": ["Created Bank Management System", "Created Project in C++"],
       "imageSrc": "history/skit.png"
     },
     {
       "role": "UI Designer , SIH",
-      "organisation": "",
-      "startDate": "Aug, 2023 - Dec, 2023",
-      "endDate": "",
+      "organisation": "SMART INDIA HACATHON",
+      "startDate": "Aug, 2023 ",
+      "endDate": "Dec, 2023",
       "experiences": ["Worked as a Team Leader ", "Designed complete UI for my Project named UNAMIC"],
       "imageSrc": "history/sih.png"
     }
