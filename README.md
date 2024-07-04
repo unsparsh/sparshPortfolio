@@ -1,6 +1,8 @@
-# React + Vite
+# Made with React + Vite
+The Website it hosted on netlify.com
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Hosted Website Url:
+https://sparshsingh.netlify.app/
 
 Currently, two official plugins are available:
 
