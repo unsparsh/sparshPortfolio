@@ -6,7 +6,7 @@ import  {getImageUrl}  from "../../utils";
 const Hero = () => {
   const handleDownloadCV = () => {
     // Replace 'cv.pdf' with the path to your actual CV file
-    const downloadUrl = getImageUrl("hero/sparsh resume.pdf");
+    const downloadUrl = getImageUrl("hero/Sparsh Resume.pdf");
     window.open(downloadUrl, "_blank");
   };
   return (
